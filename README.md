@@ -12,23 +12,8 @@ To analyze investor sentiment from financial text data and correlate it with sto
 
 ## 🔍 Key Highlights
 
-- Collected and preprocessed financial news headlines and stock price data  
-- Performed sentiment classification using `TextBlob` and `VADER`  
+- Collected and preprocessed financial news headlines and stock price data   
 - Built predictive models (Logistic Regression, SVM, Naive Bayes) to forecast market direction  
 - Evaluated models using metrics like accuracy, precision, recall, and F1-score  
 - Achieved up to **90% classification accuracy** with optimized preprocessing and feature engineering
-
----
-
-## 🧠 Technologies Used
-
-- **Python 3.x**
-- **NLP**: NLTK, VADER, TextBlob  
-- **ML Models**: Scikit-learn (SVM, Logistic Regression, Naive Bayes)  
-- **Visualization**: Matplotlib, Seaborn  
-- **Jupyter Notebook** for development and exploration
-
----
-
-## 📁 Folder Structure
 

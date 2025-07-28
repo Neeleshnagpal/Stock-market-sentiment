@@ -17,3 +17,5 @@ To analyze investor sentiment from financial text data and correlate it with sto
 - Evaluated models using metrics like accuracy, precision, recall, and F1-score  
 - Achieved up to **90% classification accuracy** with optimized preprocessing and feature engineering
 
+📄 [View Final Report (PDF)](https://drive.google.com/file/d/1HKbCgM_lfVLPk2sifilVXkPRZ07ruaBn/view?usp=drive_link)
+
